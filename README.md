@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/vick71864683" target="blank"><img src="https://img.shields.io/twitter/follow/vick71864683?logo=twitter&style=for-the-badge" alt="vick71864683" /></a> </p>
 
-<p align="left"> <img align ="right" alt="coding" width="400" src="https://dribbble.com/shots/16080750-World-Building-Octocat-Animation?utm_source=Clipboard_Shot&utm_campaign=CameronFoxly&utm_content=World-Building%20Octocat%20Animation&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=CameronFoxly&utm_content=World-Building%20Octocat%20Animation&utm_medium=Social_Share">
+<p align="left"> <img align ="right" alt="coding" width="400" src="https://github.com/Jitendra-singh-123/Jitendra-singh-123/blob/main/DarkMode_dribbble.mp4">
 - 👨‍💻 All of my projects are available at [https://github.com/Jitendra-singh-123/All-projects.git](https://github.com/Jitendra-singh-123/All-projects.git)
 
 - 📫 How to reach me **vickysingh31561@gmail.com,www.linkedin.com/in/jitednrasingh**
