@@ -1,5 +1,5 @@
 
-[![MasterHead](https://media-exp3.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1631750400&v=beta&t=0LohX99JFWfYQy8ZEmLiw3vcqpkR56mig0tvJ7gfNOM)](https://jitendra-singh-123.github.io)
+[![MasterHead](https://github.com/Jitendra-singh-123/Jitendra-singh-123/blob/main/Sparkle.png)](https://jitendra-singh-123.github.io)
 <h1 align="center">Hello 👋, I'm Jitendra singh</h1>
 <h3 align="center">A passionate Computer science student from India.</h3>
 
