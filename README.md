@@ -30,4 +30,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jitendra-singh-123&show_icons=true&locale=en&layout=compact" alt="jitendra-singh-123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jitendra-singh-123&show_icons=true&locale=en" alt="jitendra-singh-123" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=jitendra-singh-123&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jitendra-singh-123&theme=radical"/>|
+|---|---|
