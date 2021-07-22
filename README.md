@@ -1,5 +1,5 @@
 
-[![MasterHead](https://github.com/Jitendra-singh-123/Jitendra-singh-123/blob/main/Sparkle.png)](https://jitendra-singh-123.github.io)
+<a href="https://www.youtube.com/codingpotter"><img align="center" src="https://raw.githubusercontent.com/dhanrajdc7/dhanrajdc7/main/back.png"/></a>
 <h1 align="center">Hello 👋, I'm Jitendra singh</h1>
 <h3 align="center">A passionate Computer science student from India.</h3>
 
