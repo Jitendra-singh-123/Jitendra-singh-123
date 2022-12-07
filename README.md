@@ -1,5 +1,5 @@
 
-<a href="https://github.com/Jitendra-singh-123"><img align="center" src="https://github.com/Jitendra-singh-123/Jitendra-singh-123/blob/main/My%20Post%20(1).png"/></a>
+
 <h1 align="center">Hello 👋, I'm Jitendra singh</h1>
 <h3 align="center">A passionate Computer science student from India.</h3>
 
