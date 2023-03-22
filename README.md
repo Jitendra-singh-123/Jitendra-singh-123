@@ -2,8 +2,7 @@
 
 <h1 align="center">Hello 👋, I'm Jitendra singh</h1>
 <h3 align="center">A passionate Computer science student from India.</h3>
-<img align = "right" alt = "coding" width="200" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ss9557&label=Profile%20views&color=0e75b6&style=flat" alt="jitendra-singh-123" /> </p>
+<img align = "right" alt = "coding" width="300" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendra-singh-123&label=Profile%20views&color=0e75b6&style=flat" alt="jitendra-singh-123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jitendra-singh-123" alt="jitendra-singh-123" /></a> </p>
